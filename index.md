@@ -1,6 +1,6 @@
 #Nativefier Setup Tool
 
-- You need to download </a href="https://nodejs.org/en/download/">Nodejs</a> First
+- You need to download [Nodejs](https://nodejs.org/en/download/) First
 - You need to install nativefier Module with npm command
 
 
