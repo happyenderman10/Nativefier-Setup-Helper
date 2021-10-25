@@ -8,6 +8,7 @@ Installing Nativefier Module :
 - Open cmd/bash 
 
 - Type this command : 
+
 ```npm
 npm install nativefier -g
 ```
